@@ -1,0 +1,36 @@
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main{
+    flex: 1;
+}
+
+h1{
+    
+    color: palevioletred;
+}
+
+p{
+    font-size: 20px;
+}
+
+header{
+    background-color: palevioletred;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+
+footer{
+    background-color: palevioletred;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
